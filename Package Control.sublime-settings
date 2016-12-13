@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Codecs33",
+		"Comment-Snippets",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"Package Control",
+		"SideBarEnhancements"
+	]
+}
