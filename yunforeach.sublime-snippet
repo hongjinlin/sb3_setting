@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+{yun:}foreach from = $1 key = key item = $2{/yun}
+    $3
+{yun:}/foreach{/yun}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>yunforeach</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
